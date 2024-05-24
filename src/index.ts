@@ -21,5 +21,10 @@ isAlive = false
 let something = null
 let otherThing = undefined
 
+console.log(age, firstName, isAdult)
+console.log(planet, moon, isAlive)
+console.log(something, otherThing)
+console.log('Hello World!')
+
 
 
