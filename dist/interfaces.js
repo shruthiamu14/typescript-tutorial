@@ -16,5 +16,3 @@ createPost(newPost);
 // with arrays
 let posts = [];
 posts.push(newPost);
-
-
